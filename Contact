@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Kaukilahti Photography</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <header>
+    <h1>Kaukilahti Photography</h1>
+    <br>
+    <br>
+    <div class="topnav">
+        <a class="active" href="Contact.html">Contact</a>
+        <a href="HTML5 -standardi.html">Portfolio</a>
+        <a href="About.html">About Me</a>
+</div>
+    <br>
+    <br>
+    <br>
+    </header>
+<div class="row">
+    <div class="column3">
+<p>Send me a message:</p>
+<form>
+    <input type="text" placeholder="Name *"required>
+    <br>
+    <br>
+    <input type="text" placeholder="Company">
+    <br>
+    <br>
+    <input type="email" placeholder="Email *"required>
+    <br>
+    <br>
+    <input type="number" placeholder="Phone number *"required>
+    <br>
+    <br>
+    <label>Write your message here:</label>
+    <br>
+    <textarea>
+    </textarea>
+<p>(Areas with * -icon needs to be filled)</p>
+<br>
+<button type="submit">Submit</button>
+</form>   
+</div>
+    <div class="column3">
+        <p>Contact me:</p>
+        <p>p. 050 254 4550</p>
+        <p>email: kaukilahti (a) photography.com</p>
+    </div>
+ </div>
+ <br>
+ <br>   
+<br>
+
+<footer>
+        <p>Copyright R. Kaukilahti</p>
+</footer>
+</body>
+
+
+</html>
