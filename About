@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Kaukilahti Photography</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+    <header>
+    <h1>Kaukilahti Photography</h1>
+    <br>
+    <br>
+    <div class="topnav">
+        <a class="active" href="About.html">About Me</a>
+        <a href="Contact.html">Contact Me</a>
+        <a href="index.html">Portfolio</a>
+</div>
+<br>
+<br>
+<br>
+    </header>
+<br>
+<br>
+<br>
+
+    <div class="lead">
+        <p>"Photography isn't just profession; it's passion, art, and a way of understanding the world."</p>
+         </p>
+    </div>
+<br>
+
+    <div class="row">
+    <div class="column2">
+        <p>My journey into the captivating world of photography started in my early years, where the play of light and shadow, the genuine emotions of people, and the captivating beauty of the world always fascinated me. As I grew older, my fascination blossomed into an unwavering love for the art of capturing moments in time. I embarked on this beautiful journey armed with a camera and a heart full of dreams, and at the age of 25, I founded my own photography business.</p>
+    
+        <p> Over the past decade, I have dedicated myself to perfecting my craft, immersing myself in the technical intricacies of photography, and exploring the depths of creativity. Through my lens, I tell stories that resonate with the soul, capturing not just faces but the raw, unfiltered emotions that lie beneath the surface. Each click of the shutter is a heartbeat, echoing the essence of the moment.</p>   
+        <p>What sets my work apart is the genuine connection I establish with my subjects. Whether it's a couple on the brink of a new journey together, a child lost in the world of imagination, or the quiet elegance of nature, I strive to capture the authenticity of the moment. My photographs are not mere images; they are fragments of time, frozen in a frame, telling tales that words often fail to convey.</p>
+    
+        <p>Running my own photography business has not just been a career choice for me; it's a way of life. It's about embracing challenges, cherishing triumphs, and constantly evolving to meet the ever-changing demands of this dynamic field. Every day is a new canvas, and every photoshoot is an opportunity to create something extraordinary.</p>
+    </div>
+    <div class="column2">
+        <img src="Photographer_portrait.jpg">
+    </div>
+    </div>
+    <div class="afterwords">
+        <p>Photography, for me, is a celebration of life in all its forms – the laughter, the tears, the quiet moments, and the grand celebrations. Through my work, I invite you to see the world as I do – a canvas of endless possibilities, waiting to be explored one click at a time. So, come, join me on this visual odyssey, and let's paint the world with the hues of emotions and the strokes of memories.</p>
+    </div>
+<br>
+    <div class="signature">
+    <p>Your's Sincerely,</p>
+    <p>Riikka</p>
+    </div>
+
+<br>
+<br>
+<br>
+
+    <footer>
+    <p>Copyright R. Kaukilahti</p>
+    </footer>
+</body>
+
+
+</html>
