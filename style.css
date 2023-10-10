@@ -19,6 +19,7 @@ header h1{
     text-align:center;
     color: burlywood;
     max-width: 90%;
+    margin: 20px;
 }
 
 /* Add a black background color to the top navigation */
