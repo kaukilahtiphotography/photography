@@ -1,7 +1,7 @@
 body{
     border: 2px;
     border-style: solid;
-    color:burlywood;
+    color:#6C3811;
     padding: 20px;
     margin: 20px;
     font-family: 'Courier New', Courier, monospace;
@@ -17,7 +17,7 @@ header{
 header h1{
     font-size: 50px;
     text-align:center;
-    color: burlywood;
+    color: #6C3811;
 }
 
 /* Add a black background color to the top navigation */
@@ -30,7 +30,7 @@ header h1{
   /* Style the links inside the navigation bar */
   .topnav a {
     float: left;
-    color: burlywood;
+    color: #6C3811;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -40,7 +40,7 @@ header h1{
   /* Change the color of links on hover */
   .topnav a:hover {
     background-color: white;
-    color: burlywood;
+    color: #6C3811;
     text-decoration: underline;
   }
   
@@ -48,12 +48,12 @@ header h1{
   .topnav a.active {
     border: 2px;
     border-style: solid;
-    color: burlywood;
+    color: #6C3811;
     background-color: white;
     text-decoration: none;
   }
 .row h2{
-    color: burlywood;
+    color: #6C3811;
     padding-left: 30px;
 }
    /* Create two equal columns that sits next to each other */
