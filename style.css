@@ -117,7 +117,7 @@ font-size: 20px;
     /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 500px) {
     .header h1{
-      size: 100px;
+    text-align: center;
     }
     .column {
       flex: 50%;
